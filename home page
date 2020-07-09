@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title> Indigo </title>
+		<link rel="stylesheet" href="stylesheet.css">
+	</head>
+	<body>
+		<nav>
+         <header>
+            <img src = "logo.jpg" width = 100px length = 100px/>
+            INDIGO
+			   <a href="i101project.html">Home</a>
+			   <a href="research.html"> Research </a>
+			   <a href="dataviz.html"> Data & Visualization</a>
+			   <a href="solution.html"> Solution</a></li>
+            <a href="presentation.html"> Presentation</a>
+         </header>
+      </nav>
+      <nav>
+         <h1>
+            <a href = "hotels.html">Hotels</a>
+            <a href = "tours.html">Tours</a>
+            <a href = "flights.html">Flights</a>
+            <a href = "vehicles.html">Vehicles</a>
+            <a href = "resurants.html">Resturants</a>
+         </h1>
+      </nav>
+      <h2>SEARCH BAR</h2>
+      <h3>Featured Resturants</h3>
+		<div class="Random_Resurants">
+				<nav class="Pictures">
+					<img src = "Resturant_Pic_1"/>
+					<img src = "Resturant_Pic_2"/>
+					<img src = "Resturant_Pic_3"/>
+				</nav>
+         </header>
+      <p>Info About Featured Resturant #1 | Info About Featured Resturant #2 | Info About Featured Resturant #3</p>
+		<main>
+			<section id="Resturant">
+            <h1> Resturant Name </h1>
+            <p> Description of the Resturant</p>
+				<img src="Pic_of_Resturant" width=400px/>
