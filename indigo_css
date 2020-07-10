@@ -41,8 +41,8 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin-left: 70px;
-    padding-top: 23px;
+    margin: 20px;
+    padding-top: 8px;
 
     position: relative;
 }
@@ -73,6 +73,17 @@ nav a::before {
 
 nav a:hover::before {
     width: 100%;
+}
+
+.search_header {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #4b0082;
+    height: 150px;
+    padding: 10px;
+    border-radius: 40px;
 }
 
 .search-box {
