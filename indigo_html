@@ -25,7 +25,15 @@
         </header>
 
         <header>
-            
+            <div class="search_header">
+                <nav>
+                    <ul>
+                        <li><a href="">Businesses</a></li>
+                        <li><a href="">Resturants</a></li>
+                        <li><a href="">Hotels</a></li>
+                    </ul>
+                </nav>
+            </div>
             <div class="search-box">
             <input class="search-txt" type="text" name="" placeholder="Type to search">
             <a class="search-btn" href="#">
